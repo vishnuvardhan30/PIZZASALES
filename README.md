@@ -77,19 +77,3 @@ Understand sales trends across days and months
 Identify top performing pizzas by revenue and quantity
 
 Analyse customer ordering patterns to improve menu strategy
-
-📷 Screenshots
-Add screenshots of your dashboard here for quick preview.
-
-👤 Author
-Name: [Your Name]
-
-LinkedIn: [Your LinkedIn link]
-
-YouTube (if applicable): [Your Data Tutorials channel]
-
-⭐ Contributing
-Feel free to fork this project, improve it, and submit pull requests.
-
-📜 License
-This project is licensed under the MIT License.
